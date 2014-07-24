@@ -1,1 +1,2 @@
-Hello, this is the first time to use github.
+This is the first time to use github.
+Good job!
